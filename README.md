@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fhmyazz
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning QA Automation
+- 👀 I’m interested in Data-Related Field
+- 🌱 I’m currently learning Data Engineer
 - 📫 How to reach me fahmyaziz1805@gmail.com
 
 <!---
